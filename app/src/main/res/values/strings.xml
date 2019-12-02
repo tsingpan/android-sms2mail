@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="link_github_href">https://github.com/6rus/sms2mail</string>
+    <string name="link_github_lib">Open Source Project</string>
+    <string name="app_name">sms2mail</string>
+    <string name="mail_hint">Enter your mail here</string>
+    <string name="password_hint">Enter your password here</string>
+	<string name="start">Start Service</string>
+	<string name="stop">Stop Service</string>
+</resources>
